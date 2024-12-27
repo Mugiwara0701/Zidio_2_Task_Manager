@@ -7,7 +7,7 @@ This is a Task Management Application built with a MERN stack. The front end is 
 Team Memebers included are
 
 Yatin Singh
-Akshat Nautiyal
-Shivam
+Aryan Tomar
+Shivam Bhandari
 Vaishnavi
 Chandu Mucharla Jyoti
